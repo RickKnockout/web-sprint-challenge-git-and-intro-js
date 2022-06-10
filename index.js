@@ -374,7 +374,7 @@ function artistByCountry(arr,strNat){
   return arrNames;
 }
 
-// artistByCountry(artists, 'Spanish');
+//artistByCountry(artists, 'Spanish');
 
 
 
